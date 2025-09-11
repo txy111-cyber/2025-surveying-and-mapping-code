@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|c:\\users\\20299\\desktop\\surveyingcompetition2025\\topic4-pointcloud\\codesource\\pointcloud\\pointcloud\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|solutionrelative:pointcloud\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|solutionrelative:pointcloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|solutionrelative:pointcloud\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED8F3E47-659A-450C-AF33-86ED5842D884}|pointcloud\\pointcloud.csproj|solutionrelative:pointcloud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 223,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Cal.cs",
+              "RelativeDocumentMoniker": "pointcloud\\Cal.cs",
+              "ToolTip": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Cal.cs",
+              "RelativeToolTip": "pointcloud\\Cal.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswHgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:10:12.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Data.cs",
+              "RelativeDocumentMoniker": "pointcloud\\Data.cs",
+              "ToolTip": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Data.cs",
+              "RelativeToolTip": "pointcloud\\Data.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwCYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:03:54.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Form1.cs",
+              "RelativeDocumentMoniker": "pointcloud\\Form1.cs",
+              "ToolTip": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Form1.cs",
+              "RelativeToolTip": "pointcloud\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwB4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:03:39.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\20299\\Desktop\\SurveyingCompetition2025\\Topic4-PointCloud\\CodeSource\\pointcloud\\pointcloud\\Form1.cs",
+              "RelativeDocumentMoniker": "pointcloud\\Form1.cs",
+              "ToolTip": "C:\\Users\\20299\\Desktop\\pointcloud\\pointcloud\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "..\\..\\..\\..\\pointcloud\\pointcloud\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T02:01:52.804Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 98,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
