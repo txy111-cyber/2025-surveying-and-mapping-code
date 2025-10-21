@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\gnss_v2_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|solutionrelative:gnss_v2_p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|d:\\vs2022\u5907\u8D5B\\gnss_v2_p1\\gnss_v2_p1\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|solutionrelative:gnss_v2_p1\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\gnss_v2_p1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|solutionrelative:gnss_v2_p1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\gnss_v2_p1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|solutionrelative:gnss_v2_p1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\gnss_v2_p1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0D5E88-A225-4C8D-A65F-8960BB7AF7B8}|GNSS_V2_P1\\GNSS_V2_P1.csproj|solutionrelative:gnss_v2_p1\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Program.cs",
+              "RelativeDocumentMoniker": "GNSS_V2_P1\\Program.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Program.cs",
+              "RelativeToolTip": "GNSS_V2_P1\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T02:16:40.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Cal.cs",
+              "RelativeDocumentMoniker": "GNSS_V2_P1\\Cal.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Cal.cs",
+              "RelativeToolTip": "GNSS_V2_P1\\Cal.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:26:38.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Data.cs",
+              "RelativeDocumentMoniker": "GNSS_V2_P1\\Data.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Data.cs",
+              "RelativeToolTip": "GNSS_V2_P1\\Data.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:19:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Form1.cs",
+              "RelativeDocumentMoniker": "GNSS_V2_P1\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Form1.cs",
+              "RelativeToolTip": "GNSS_V2_P1\\Form1.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwCsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:19:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Form1.cs",
+              "RelativeDocumentMoniker": "GNSS_V2_P1\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\GNSS_V2_P1\\GNSS_V2_P1\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "GNSS_V2_P1\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T03:16:23Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1092,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

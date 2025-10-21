@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\voronoi_v5_p3\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|solutionrelative:voronoi_v5_p3\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\voronoi_v5_p3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|solutionrelative:voronoi_v5_p3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\voronoi_v5_p3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|solutionrelative:voronoi_v5_p3\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|d:\\vs2022\u5907\u8D5B\\voronoi_v5_p3\\voronoi_v5_p3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BC2BBB4-4F2C-4FD9-9BC2-6B9CCE1C898D}|Voronoi_v5_p3\\Voronoi_v5_p3.csproj|solutionrelative:voronoi_v5_p3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Cal.cs",
+              "RelativeDocumentMoniker": "Voronoi_v5_p3\\Cal.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Cal.cs",
+              "RelativeToolTip": "Voronoi_v5_p3\\Cal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:37:37.127Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Form1.cs",
+              "RelativeDocumentMoniker": "Voronoi_v5_p3\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Form1.cs",
+              "RelativeToolTip": "Voronoi_v5_p3\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:22:55.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Data.cs",
+              "RelativeDocumentMoniker": "Voronoi_v5_p3\\Data.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Data.cs",
+              "RelativeToolTip": "Voronoi_v5_p3\\Data.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA7wCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:23:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Form1.cs",
+              "RelativeDocumentMoniker": "Voronoi_v5_p3\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\Voronoi_v5_p3\\Voronoi_v5_p3\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Voronoi_v5_p3\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T01:21:16.556Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1092,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

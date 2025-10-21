@@ -1,0 +1,10 @@
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\bin\Debug\Voronoi_v5_p3.exe.config
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\bin\Debug\Voronoi_v5_p3.exe
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\bin\Debug\Voronoi_v5_p3.pdb
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.csproj.AssemblyReference.cache
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.Form1.resources
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.Properties.Resources.resources
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.csproj.GenerateResource.cache
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.csproj.CoreCompileInputs.cache
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.exe
+D:\vs2022备赛\Voronoi_v5_p3\Voronoi_v5_p3\obj\Debug\Voronoi_v5_p3.pdb

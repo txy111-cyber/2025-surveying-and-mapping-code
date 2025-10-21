@@ -1,0 +1,10 @@
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\bin\Debug\GNSS_v2_p4-copy.exe.config
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\bin\Debug\GNSS_v2_p4-copy.exe
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\bin\Debug\GNSS_v2_p4-copy.pdb
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4-copy.csproj.AssemblyReference.cache
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4_copy.Form1.resources
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4_copy.Properties.Resources.resources
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4-copy.csproj.GenerateResource.cache
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4-copy.csproj.CoreCompileInputs.cache
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4-copy.exe
+D:\vs2022备赛\7.23\GNSS_v2_p4-copy\GNSS_v2_p4-copy\obj\Debug\GNSS_v2_p4-copy.pdb
