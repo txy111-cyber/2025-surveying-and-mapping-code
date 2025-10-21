@@ -1,0 +1,10 @@
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\bin\Debug\singlePic_v6_final.exe.config
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\bin\Debug\singlePic_v6_final.exe
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\bin\Debug\singlePic_v6_final.pdb
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.csproj.AssemblyReference.cache
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.Form1.resources
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.Properties.Resources.resources
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.csproj.GenerateResource.cache
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.csproj.CoreCompileInputs.cache
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.exe
+D:\vs2022备赛\7.30\singlePic_v6_final\singlePic_v6_final\obj\Debug\singlePic_v6_final.pdb

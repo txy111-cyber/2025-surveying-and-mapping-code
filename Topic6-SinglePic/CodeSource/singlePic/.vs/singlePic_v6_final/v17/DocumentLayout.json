@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|d:\\vs2022\u5907\u8D5B\\7.30\\singlepic_v6_final\\singlepic_v6_final\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|solutionrelative:singlepic_v6_final\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlepic_v6_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|solutionrelative:singlepic_v6_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlepic_v6_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|solutionrelative:singlepic_v6_final\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlepic_v6_final\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D538F1A5-D8D8-406C-8E40-9F52505C9EFE}|singlePic_v6_final\\singlePic_v6_final.csproj|solutionrelative:singlepic_v6_final\\cal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cal.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Cal.cs",
+              "RelativeDocumentMoniker": "singlePic_v6_final\\Cal.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Cal.cs",
+              "RelativeToolTip": "singlePic_v6_final\\Cal.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowFwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:15:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Form1.cs",
+              "RelativeDocumentMoniker": "singlePic_v6_final\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Form1.cs",
+              "RelativeToolTip": "singlePic_v6_final\\Form1.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAIwHYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T02:12:26.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Data.cs",
+              "RelativeDocumentMoniker": "singlePic_v6_final\\Data.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Data.cs",
+              "RelativeToolTip": "singlePic_v6_final\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:19:29.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Form1.cs",
+              "RelativeDocumentMoniker": "singlePic_v6_final\\Form1.cs",
+              "ToolTip": "D:\\vs2022\u5907\u8D5B\\7.30\\singlePic_v6_final\\singlePic_v6_final\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "singlePic_v6_final\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T01:16:57.392Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1092,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
